@@ -1,0 +1,2 @@
+masm lowtom;
+link lowtom;
